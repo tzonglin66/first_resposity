@@ -1,0 +1,1 @@
+print('class of int')
